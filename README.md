@@ -62,10 +62,7 @@ Gerente de Processos e Desenvolvedor Full Stack com formação em Engenharia de 
 
 ---
 
-### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&theme=dracula&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dracula)
 
 ---
-⭐️ From [renanmachado](https://github.com/YourGitHubUsername)
+⭐️ From [renanmachado](https://github.com/Renan-Mac).
